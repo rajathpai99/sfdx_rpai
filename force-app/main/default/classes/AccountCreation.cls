@@ -9,7 +9,7 @@ public class AccountCreation {
             acc.Website='https://trailhead.salesforce.com';
             accList.add(acc);
         }
-        // Conlficting comment for manual resolution
+        // Comment 14Dec22 rpaiso1
         if(accList.size() > 0) {
             insert  accList;
         }
