@@ -49,7 +49,7 @@
             <field>Priority</field>
             <operator>EqualTo</operator>
             <value>
-                <stringValue>High123</stringValue>
+                <stringValue>Medium</stringValue>
             </value>
         </filters>
         <object>Case</object>
