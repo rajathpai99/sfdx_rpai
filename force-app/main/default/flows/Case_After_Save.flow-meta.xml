@@ -49,7 +49,7 @@
             <field>Status</field>
             <operator>EqualTo</operator>
             <value>
-                <stringValue>New</stringValue>
+                <stringValue>Escalated</stringValue>
             </value>
         </filters>
         <object>Case</object>

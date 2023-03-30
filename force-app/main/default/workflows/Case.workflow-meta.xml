@@ -32,7 +32,7 @@
         <criteriaItems>
             <field>Case.OwnerId</field>
             <operation>startsWith</operation>
-            <value>R</value>
+            <value>Raj</value>
         </criteriaItems>
         <description>test describe</description>
         <triggerType>onCreateOnly</triggerType>
@@ -47,7 +47,7 @@
         <criteriaItems>
             <field>Case.Reason</field>
             <operation>equals</operation>
-            <value>Installation,Equipment Complexity,Performance,Breakdown,Equipment Design</value>
+            <value>Installation,Equipment Complexity,Equipment Design</value>
         </criteriaItems>
         <description>description exceptional</description>
         <triggerType>onCreateOnly</triggerType>
