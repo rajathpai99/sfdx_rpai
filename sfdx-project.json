@@ -1,18 +1,18 @@
 {
-    "packageDirectories": [
-        {
-            "path": "force-app",
-            "default": true,
-            "package": "test_pac",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
-        }
-    ],
-    "name": "sfdx 2nd gen",
-    "namespace": "",
-    "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "57.0",
-    "packageAliases": {
-        "test_pac": "0Ho2w0000004Da7CAE"
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "test_pac",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT"
     }
+  ],
+  "name": "sfdx 2nd gen",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "58.0",
+  "packageAliases": {
+    "test_pac": "0Ho2w0000004Da7CAE"
+  }
 }
