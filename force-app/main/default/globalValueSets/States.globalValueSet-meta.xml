@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>KA</fullName>
+        <default>false</default>
+        <label>KA</label>
+    </customValue>
+    <customValue>
+        <fullName>TN</fullName>
+        <default>false</default>
+        <label>TN</label>
+    </customValue>
+    <customValue>
+        <fullName>AP</fullName>
+        <default>false</default>
+        <label>AP</label>
+    </customValue>
+    <customValue>
+        <fullName>TE</fullName>
+        <default>false</default>
+        <label>TE</label>
+    </customValue>
+    <customValue>
+        <fullName>GA</fullName>
+        <default>false</default>
+        <label>GA</label>
+    </customValue>
+    <masterLabel>States</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
