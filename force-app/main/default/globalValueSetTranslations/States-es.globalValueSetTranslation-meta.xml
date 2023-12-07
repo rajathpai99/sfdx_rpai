@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>AP</masterLabel>
+        <translation><!-- AP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>GA</masterLabel>
+        <translation><!-- GA --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>KA</masterLabel>
+        <translation>KA_ES</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>TE</masterLabel>
+        <translation><!-- TE --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>TN</masterLabel>
+        <translation><!-- TN --></translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>
