@@ -4,10 +4,6 @@
         <enabled>true</enabled>
         <name>v1test_perm</name>
     </customPermissions>
-    <externalCredentialPrincipalAccesses>
-        <enabled>true</enabled>
-        <externalCredentialPrincipal>test_ext-testprinci</externalCredentialPrincipal>
-    </externalCredentialPrincipalAccesses>
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.test_2__c</field>
