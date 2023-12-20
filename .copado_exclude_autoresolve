@@ -5,3 +5,5 @@
 **/triggers/**
 **/lwc/**
 **/pages/**
+**/email/**/*.email
+**/email/**/*.email-meta.xml
