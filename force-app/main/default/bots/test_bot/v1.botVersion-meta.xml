@@ -5,7 +5,7 @@
     <botDialogs>
         <botSteps>
             <botMessages>
-                <message>Hi, How are you?</message>
+                <message>Hi, How are you?</message> #ConflictIntegration
                 <messageIdentifier>dd613399-e25b-4fd8-82b5-ac17040fb20a</messageIdentifier>
             </botMessages>
             <stepIdentifier>331f8e4f-38e9-47fe-9330-e5fd8e3f2573</stepIdentifier>
