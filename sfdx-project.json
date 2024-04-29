@@ -11,7 +11,7 @@
   "name": "sfdx 2nd gen",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "59.0",
+  "sourceApiVersion": "60.0",
   "packageAliases": {
     "test_pac": "0Ho2w0000004Da7CAE"
   }
