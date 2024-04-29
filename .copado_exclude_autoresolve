@@ -5,3 +5,4 @@
 **/triggers/**
 **/lwc/**
 **/pages/**
+**/bots/test_bot/v1*.botVersion-meta.xml
