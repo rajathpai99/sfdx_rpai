@@ -1,6 +1,5 @@
 public class AccountCreation {
     public static void newAccountRecords() {
-    //commit dev1 26Jul20023
         try{
         List<Account> accList= new List<Account>();
         for( Integer i=0 ; i<20 ; i++ ) {
@@ -9,6 +8,7 @@ public class AccountCreation {
             acc.Fax = '123paicopa';
             acc.Website='https://trailhead.salesforce.com';
             accList.add(acc);
+            // comment to test cli work 10Mar23
         }
         if(accList.size() > 0) {
             insert  accList;
