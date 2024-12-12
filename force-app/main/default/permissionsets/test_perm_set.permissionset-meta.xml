@@ -11,6 +11,10 @@
     <hasActivationRequired>false</hasActivationRequired>
     <label>test perm set</label>
     <license>Salesforce</license>
+    <pageAccesses>
+        <apexPage>HelloWorld</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
     <userPermissions>
         <enabled>true</enabled>
         <name>ManageEmailClientConfig</name>
