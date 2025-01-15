@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <alerts>
+        <fullName>DORA_TLPT_EMAIL_ALERT</fullName>
+        <description>DORA TLPT EMAIL ALERT</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>rpai@copado.com.devtwo</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>DORA_TLPT_Email_Template/DORA_TLPT_Case_Status</template>
+    </alerts>
     <fieldUpdates>
         <fullName>priority_update</fullName>
         <description>description good</description>
