@@ -5,7 +5,7 @@
         <description>DORA TLPT EMAIL ALERT</description>
         <protected>false</protected>
         <recipients>
-            <recipient>rpai@copado.com.devtwo</recipient>
+            <recipient>rajathpvone@copado.com.uat</recipient>
             <type>user</type>
         </recipients>
         <senderType>CurrentUser</senderType>
